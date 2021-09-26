@@ -1,0 +1,20 @@
+.sidebar__chat{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgb(246,246,246);
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.sidebar__chat__name{
+    
+}
+.sidebar__chat__2{
+    font-size: 15px;
+    margin-left: 10px;
+
+}
+.sidebar__chat__chat{
+    font-size:10px;
+    margin-top: 5px;
+    color: rgb(166,166,166);
+}

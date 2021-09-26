@@ -1,0 +1,21 @@
+.login{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(38,141,96) !important;
+    width: 100vw;
+}
+.login__button{
+    background-color: white !important;
+    color: black !important;
+    
+}
+.google__image{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
