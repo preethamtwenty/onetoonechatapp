@@ -102,10 +102,12 @@ function Chat() {
     
    
     return (
-
-        
-        
-        <div className="chat">
+        name===null?(
+            <>
+            There is no user like this
+            </>
+        ):(
+            <div className="chat">
             
 
     <div className="chat__header">
@@ -139,6 +141,12 @@ function Chat() {
             </div>
                    
         </div>
+
+        )
+
+        
+        
+        
     )
 }
 

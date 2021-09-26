@@ -81,9 +81,12 @@ function Login() {
     return (
         <div className="login">
             <div>
+                
 
             </div>
             <div>
+
+                <h2 style={{color:'white'}}>THE CHAT APP</h2>
                 <Button className="login__button" variant="contained" onClick={Signin}>
                     Login with 
                     <img src={g} className="google__image"/></Button>
