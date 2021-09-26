@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## design 
+## Design 
 https://dribbble.com/shots/14369383-Management-App-user-interface
 
-## website link 
+## Website link 
 https://wonderful-kirch-92a743.netlify.app/
 
 ## Available Scripts
