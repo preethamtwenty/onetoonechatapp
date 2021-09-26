@@ -83,6 +83,7 @@
 .sidebar__3__body{
     overflow-y:scroll;
     flex: 1;
+    margin-top: 20px;
 
 
 }

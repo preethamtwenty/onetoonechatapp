@@ -234,7 +234,11 @@ function Sidebar() {
 
                 <div></div>
 
+               
+
             </div>
+            <div style={{marginTop:'20px',color:'red'}}
+            >Please enter a valild GMAIL ID ,otherwise it will crash</div>
 
             
             </Box>
